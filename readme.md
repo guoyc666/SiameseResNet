@@ -10,9 +10,9 @@
 
 `myrun.py` 运行在task根目录，由 `test.py` 调用。
 
-
 训练集形式：
-```
+
+```txt
 train/
     class0/
     class1/
@@ -20,7 +20,8 @@ train/
 ```
 
 测试集形式
-```
+
+```txt
 test/
     task1/
         support/
